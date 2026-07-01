@@ -1,0 +1,501 @@
+id,summary,module,severity,priority,status,reporter,assignee,created_date,resolved_date,reopen_count,found_phase,root_cause
+423,[Firmware-Core] 결함 #423,Firmware-Core,Minor,Normal,Closed,qa_kim,dev_oh,2026-01-15,2026-01-31,0,Unit,Coding
+52,[Payment] 결함 #52,Payment,Critical,High,Closed,qa_park,dev_yoon,2026-01-17,2026-01-19,0,Integration,Requirement
+395,[Search] 결함 #395,Search,Minor,Normal,Resolved,qa_park,dev_baek,2026-01-21,2026-02-09,0,Production,Environment
+205,[Search] 결함 #205,Search,Major,Immediate,Closed,qa_kim,dev_shin,2026-01-23,2026-01-29,0,System,Third-party
+239,[Data-Sync] 결함 #239,Data-Sync,Major,High,Closed,qa_lee,dev_baek,2026-01-26,2026-02-12,0,System,Coding
+270,[Data-Sync] 결함 #270,Data-Sync,Minor,Normal,Closed,qa_park,dev_shin,2026-01-28,2026-02-06,0,Production,Requirement
+150,[Payment] 결함 #150,Payment,Blocker,Low,Closed,qa_lee,dev_baek,2026-01-28,2026-01-29,0,UAT,Design
+85,[Search] 결함 #85,Search,Trivial,Low,Closed,qa_park,dev_han,2026-01-29,2026-02-19,0,Unit,Environment
+136,[Auth-Login] 결함 #136,Auth-Login,Critical,High,New,qa_park,dev_seo,2026-01-29,,0,Integration,Environment
+227,[Firmware-Core] 결함 #227,Firmware-Core,Major,Normal,Closed,qa_kim,dev_han,2026-01-30,2026-02-07,0,UAT,Coding
+415,[Firmware-Core] 결함 #415,Firmware-Core,Trivial,High,Resolved,qa_lee,dev_han,2026-02-01,2026-02-18,0,Integration,Design
+69,[Payment] 결함 #69,Payment,Major,Immediate,Closed,qa_choi,dev_yoon,2026-02-02,2026-02-11,0,System,Environment
+422,[UI-Settings] 결함 #422,UI-Settings,Minor,Normal,In Progress,qa_jung,dev_seo,2026-02-05,,0,Unit,Design
+485,[Notification] 결함 #485,Notification,Critical,Normal,Closed,qa_kim,dev_baek,2026-02-05,2026-02-11,0,Unit,Environment
+164,[Search] 결함 #164,Search,Critical,High,Closed,qa_choi,dev_oh,2026-02-05,2026-02-08,0,Unit,Environment
+125,[Notification] 결함 #125,Notification,Trivial,Normal,Reopened,qa_kim,dev_shin,2026-02-07,,1,System,Design
+435,[Payment] 결함 #435,Payment,Minor,High,Closed,qa_park,dev_oh,2026-02-07,2026-02-21,1,System,Requirement
+451,[Payment] 결함 #451,Payment,Major,Normal,Closed,qa_choi,dev_oh,2026-02-08,2026-02-15,0,Unit,Environment
+28,[Network-Comm] 결함 #28,Network-Comm,Trivial,High,Closed,qa_jung,dev_seo,2026-02-08,2026-02-27,0,Production,Data
+281,[Network-Comm] 결함 #281,Network-Comm,Major,High,New,qa_choi,dev_oh,2026-02-08,,1,Unit,Coding
+176,[Payment] 결함 #176,Payment,Major,Normal,Closed,qa_park,dev_han,2026-02-09,2026-02-16,0,Integration,Requirement
+287,[Payment] 결함 #287,Payment,Minor,High,Closed,qa_choi,dev_baek,2026-02-10,2026-02-25,0,System,Coding
+424,[Network-Comm] 결함 #424,Network-Comm,Major,High,Resolved,qa_choi,dev_han,2026-02-11,2026-02-17,1,System,Coding
+292,[Notification] 결함 #292,Notification,Major,Normal,New,qa_choi,dev_oh,2026-02-12,,0,Unit,Environment
+273,[Payment] 결함 #273,Payment,Minor,High,Closed,qa_park,dev_oh,2026-02-12,2026-02-19,0,UAT,Coding
+449,[Firmware-Core] 결함 #449,Firmware-Core,Trivial,Normal,Closed,qa_choi,dev_oh,2026-02-13,2026-03-06,0,Production,Design
+271,[Payment] 결함 #271,Payment,Major,Low,Reopened,qa_lee,dev_seo,2026-02-13,,2,Unit,Third-party
+75,[Firmware-Core] 결함 #75,Firmware-Core,Trivial,Low,New,qa_choi,dev_oh,2026-02-14,,0,Integration,Data
+429,[UI-Settings] 결함 #429,UI-Settings,Minor,Normal,Resolved,qa_jung,dev_shin,2026-02-14,2026-02-24,0,Integration,Third-party
+18,[Payment] 결함 #18,Payment,Minor,Normal,Closed,qa_choi,dev_shin,2026-02-16,2026-02-19,0,Unit,Requirement
+259,[Payment] 결함 #259,Payment,Blocker,Normal,Reopened,qa_kim,dev_baek,2026-02-17,,1,System,Coding
+140,[Notification] 결함 #140,Notification,Trivial,Normal,Closed,qa_lee,dev_shin,2026-02-22,2026-02-28,0,Unit,Coding
+339,[UI-Settings] 결함 #339,UI-Settings,Major,Low,Closed,qa_kim,dev_baek,2026-02-23,2026-02-27,0,Integration,Design
+123,[Notification] 결함 #123,Notification,Trivial,Normal,Closed,qa_choi,dev_shin,2026-02-23,2026-03-20,0,Unit,Design
+364,[UI-Settings] 결함 #364,UI-Settings,Minor,Immediate,Reopened,qa_kim,dev_oh,2026-02-24,,1,Unit,Coding
+98,[Search] 결함 #98,Search,Minor,Normal,Closed,qa_kim,dev_yoon,2026-02-24,2026-03-15,0,Integration,Coding
+413,[Payment] 결함 #413,Payment,Trivial,Normal,Closed,qa_choi,dev_seo,2026-02-25,2026-04-07,0,Integration,Coding
+86,[Network-Comm] 결함 #86,Network-Comm,Minor,Normal,Reopened,qa_jung,dev_han,2026-02-25,,2,Integration,Design
+455,[UI-Settings] 결함 #455,UI-Settings,Trivial,High,Closed,qa_choi,dev_oh,2026-02-25,2026-03-07,0,Integration,Third-party
+188,[Notification] 결함 #188,Notification,Trivial,Low,In Progress,qa_kim,dev_oh,2026-02-26,,0,System,Data
+350,[UI-Settings] 결함 #350,UI-Settings,Trivial,High,Closed,qa_choi,dev_seo,2026-02-26,2026-03-20,0,Integration,Coding
+109,[Data-Sync] 결함 #109,Data-Sync,Minor,Low,Closed,qa_lee,dev_seo,2026-02-26,2026-03-12,1,System,Design
+5,[Network-Comm] 결함 #5,Network-Comm,Major,Normal,Closed,qa_lee,dev_baek,2026-02-26,2026-03-02,0,Unit,Requirement
+337,[Firmware-Core] 결함 #337,Firmware-Core,Minor,High,New,qa_jung,dev_yoon,2026-02-26,,0,System,Coding
+294,[Search] 결함 #294,Search,Critical,High,Closed,qa_lee,dev_seo,2026-02-27,2026-03-05,0,Production,Coding
+290,[Payment] 결함 #290,Payment,Minor,Normal,Closed,qa_kim,dev_shin,2026-02-28,2026-03-18,0,Integration,Coding
+129,[Firmware-Core] 결함 #129,Firmware-Core,Minor,Normal,Closed,qa_lee,dev_baek,2026-02-28,2026-03-16,0,Integration,Coding
+230,[UI-Settings] 결함 #230,UI-Settings,Major,Immediate,Resolved,qa_choi,dev_shin,2026-03-01,2026-03-17,0,UAT,Coding
+258,[Payment] 결함 #258,Payment,Trivial,Normal,Closed,qa_choi,dev_han,2026-03-01,2026-03-27,0,System,Design
+409,[Network-Comm] 결함 #409,Network-Comm,Major,Low,Closed,qa_park,dev_han,2026-03-01,2026-03-02,0,Production,Coding
+155,[Auth-Login] 결함 #155,Auth-Login,Trivial,Normal,Closed,qa_park,dev_han,2026-03-02,2026-03-09,0,Integration,Design
+404,[Data-Sync] 결함 #404,Data-Sync,Major,High,Resolved,qa_lee,dev_shin,2026-03-02,2026-03-11,0,Production,Data
+161,[Network-Comm] 결함 #161,Network-Comm,Major,Immediate,Closed,qa_kim,dev_oh,2026-03-02,2026-03-15,0,UAT,Third-party
+240,[Network-Comm] 결함 #240,Network-Comm,Major,High,Closed,qa_jung,dev_yoon,2026-03-02,2026-03-11,0,System,Design
+60,[Network-Comm] 결함 #60,Network-Comm,Major,Normal,Closed,qa_park,dev_shin,2026-03-03,2026-03-10,0,Unit,Design
+99,[Payment] 결함 #99,Payment,Trivial,Low,Closed,qa_lee,dev_han,2026-03-04,2026-03-16,0,Production,Design
+363,[Network-Comm] 결함 #363,Network-Comm,Minor,Normal,Closed,qa_kim,dev_baek,2026-03-04,2026-03-22,0,Integration,Coding
+269,[Payment] 결함 #269,Payment,Critical,Normal,Closed,qa_park,dev_seo,2026-03-04,2026-03-08,0,UAT,Third-party
+389,[Search] 결함 #389,Search,Critical,Low,Closed,qa_lee,dev_baek,2026-03-04,2026-03-08,0,Unit,Coding
+392,[Firmware-Core] 결함 #392,Firmware-Core,Trivial,Normal,Closed,qa_park,dev_shin,2026-03-05,2026-03-26,0,Production,Environment
+209,[Notification] 결함 #209,Notification,Major,High,Closed,qa_park,dev_yoon,2026-03-05,2026-03-12,0,Unit,Requirement
+362,[Network-Comm] 결함 #362,Network-Comm,Minor,High,Closed,qa_choi,dev_oh,2026-03-05,2026-03-28,0,Integration,Design
+473,[Network-Comm] 결함 #473,Network-Comm,Critical,High,Closed,qa_lee,dev_yoon,2026-03-05,2026-03-10,0,Unit,Coding
+218,[Notification] 결함 #218,Notification,Critical,Normal,New,qa_kim,dev_baek,2026-03-06,,0,Production,Requirement
+437,[Search] 결함 #437,Search,Trivial,High,Closed,qa_jung,dev_seo,2026-03-06,2026-03-30,1,Integration,Design
+193,[Network-Comm] 결함 #193,Network-Comm,Major,Low,Closed,qa_park,dev_yoon,2026-03-06,2026-03-12,0,UAT,Coding
+37,[UI-Settings] 결함 #37,UI-Settings,Major,High,Resolved,qa_kim,dev_seo,2026-03-07,2026-03-12,0,UAT,Coding
+9,[Network-Comm] 결함 #9,Network-Comm,Major,Normal,In Progress,qa_jung,dev_oh,2026-03-07,,0,Integration,Requirement
+207,[Data-Sync] 결함 #207,Data-Sync,Minor,Normal,In Progress,qa_jung,dev_shin,2026-03-08,,0,UAT,Requirement
+335,[Auth-Login] 결함 #335,Auth-Login,Minor,Low,Closed,qa_lee,dev_shin,2026-03-08,2026-03-16,0,System,Coding
+217,[Auth-Login] 결함 #217,Auth-Login,Minor,High,Closed,qa_choi,dev_baek,2026-03-08,2026-03-22,0,Integration,Coding
+474,[Data-Sync] 결함 #474,Data-Sync,Trivial,Normal,New,qa_lee,dev_seo,2026-03-08,,0,Production,Coding
+302,[Network-Comm] 결함 #302,Network-Comm,Major,Normal,Closed,qa_lee,dev_han,2026-03-09,2026-03-10,0,Integration,Design
+341,[Firmware-Core] 결함 #341,Firmware-Core,Blocker,High,In Progress,qa_jung,dev_yoon,2026-03-09,,0,UAT,Design
+231,[UI-Settings] 결함 #231,UI-Settings,Major,High,Reopened,qa_park,dev_oh,2026-03-10,,2,Unit,Coding
+310,[Network-Comm] 결함 #310,Network-Comm,Trivial,Low,Closed,qa_lee,dev_yoon,2026-03-10,2026-04-09,1,Unit,Requirement
+59,[Notification] 결함 #59,Notification,Minor,Normal,Closed,qa_jung,dev_han,2026-03-10,2026-03-31,0,Integration,Design
+153,[Payment] 결함 #153,Payment,Minor,Immediate,Closed,qa_kim,dev_seo,2026-03-10,2026-04-03,0,UAT,Coding
+50,[Network-Comm] 결함 #50,Network-Comm,Major,High,Closed,qa_park,dev_baek,2026-03-10,2026-03-18,0,Integration,Design
+417,[Firmware-Core] 결함 #417,Firmware-Core,Critical,Normal,Closed,qa_jung,dev_baek,2026-03-11,2026-03-11,0,Unit,Coding
+261,[Network-Comm] 결함 #261,Network-Comm,Minor,Immediate,Reopened,qa_lee,dev_yoon,2026-03-11,,1,System,Requirement
+462,[Data-Sync] 결함 #462,Data-Sync,Major,Normal,Closed,qa_jung,dev_han,2026-03-11,2026-03-17,0,Production,Environment
+204,[Payment] 결함 #204,Payment,Trivial,Normal,Closed,qa_kim,dev_seo,2026-03-11,2026-03-22,0,UAT,Coding
+128,[Data-Sync] 결함 #128,Data-Sync,Critical,Normal,Closed,qa_kim,dev_han,2026-03-11,2026-03-13,0,Integration,Requirement
+264,[UI-Settings] 결함 #264,UI-Settings,Critical,Low,Closed,qa_jung,dev_shin,2026-03-11,2026-03-15,0,Integration,Coding
+376,[Firmware-Core] 결함 #376,Firmware-Core,Trivial,Immediate,In Progress,qa_jung,dev_oh,2026-03-12,,1,Unit,Coding
+469,[Firmware-Core] 결함 #469,Firmware-Core,Minor,Normal,Reopened,qa_jung,dev_han,2026-03-12,,2,System,Design
+91,[Network-Comm] 결함 #91,Network-Comm,Trivial,High,In Progress,qa_choi,dev_han,2026-03-13,,0,System,Data
+195,[Network-Comm] 결함 #195,Network-Comm,Trivial,Low,Resolved,qa_choi,dev_oh,2026-03-13,2026-03-17,0,UAT,Coding
+29,[Payment] 결함 #29,Payment,Minor,Normal,Closed,qa_park,dev_baek,2026-03-13,2026-05-19,0,UAT,Coding
+442,[Auth-Login] 결함 #442,Auth-Login,Minor,Immediate,Resolved,qa_choi,dev_shin,2026-03-13,2026-04-03,0,Unit,Design
+268,[Payment] 결함 #268,Payment,Blocker,Low,Closed,qa_park,dev_yoon,2026-03-13,2026-03-15,0,System,Environment
+375,[Network-Comm] 결함 #375,Network-Comm,Minor,Low,Closed,qa_lee,dev_seo,2026-03-14,2026-03-28,0,Unit,Coding
+89,[Payment] 결함 #89,Payment,Critical,Normal,New,qa_kim,dev_han,2026-03-15,,0,Integration,Coding
+84,[Payment] 결함 #84,Payment,Major,Normal,Resolved,qa_park,dev_seo,2026-03-16,2026-03-24,0,Unit,Environment
+266,[Network-Comm] 결함 #266,Network-Comm,Blocker,Normal,Closed,qa_park,dev_baek,2026-03-16,2026-03-17,0,Production,Design
+175,[Data-Sync] 결함 #175,Data-Sync,Minor,Normal,Closed,qa_kim,dev_shin,2026-03-16,2026-04-01,0,System,Coding
+131,[Search] 결함 #131,Search,Trivial,Low,Closed,qa_lee,dev_seo,2026-03-17,2026-04-02,0,Unit,Coding
+454,[Search] 결함 #454,Search,Critical,Low,Closed,qa_jung,dev_han,2026-03-17,2026-03-20,0,Production,Requirement
+352,[Network-Comm] 결함 #352,Network-Comm,Critical,Normal,New,qa_jung,dev_oh,2026-03-17,,0,Integration,Requirement
+272,[Network-Comm] 결함 #272,Network-Comm,Minor,High,Closed,qa_kim,dev_han,2026-03-18,2026-04-02,0,UAT,Coding
+115,[Search] 결함 #115,Search,Major,Low,Closed,qa_park,dev_baek,2026-03-18,2026-03-29,0,Unit,Coding
+196,[Payment] 결함 #196,Payment,Major,High,Closed,qa_jung,dev_baek,2026-03-19,2026-03-23,0,Unit,Coding
+282,[UI-Settings] 결함 #282,UI-Settings,Trivial,Normal,Resolved,qa_lee,dev_han,2026-03-19,2026-05-13,0,Unit,Requirement
+456,[UI-Settings] 결함 #456,UI-Settings,Trivial,Immediate,Resolved,qa_lee,dev_han,2026-03-20,2026-06-02,1,Integration,Environment
+36,[Data-Sync] 결함 #36,Data-Sync,Major,Normal,Closed,qa_kim,dev_yoon,2026-03-21,2026-03-23,0,System,Environment
+199,[Payment] 결함 #199,Payment,Minor,High,In Progress,qa_lee,dev_han,2026-03-22,,0,Integration,Requirement
+26,[Network-Comm] 결함 #26,Network-Comm,Major,High,Reopened,qa_jung,dev_han,2026-03-22,,2,Unit,Requirement
+444,[Network-Comm] 결함 #444,Network-Comm,Major,Immediate,Closed,qa_park,dev_han,2026-03-22,2026-04-03,0,Unit,Coding
+332,[UI-Settings] 결함 #332,UI-Settings,Minor,Normal,Reopened,qa_park,dev_seo,2026-03-23,,1,Integration,Design
+213,[Search] 결함 #213,Search,Minor,Normal,Closed,qa_park,dev_yoon,2026-03-23,2026-04-07,0,Unit,Environment
+436,[Network-Comm] 결함 #436,Network-Comm,Major,Low,Closed,qa_jung,dev_han,2026-03-23,2026-03-30,0,Integration,Coding
+51,[UI-Settings] 결함 #51,UI-Settings,Major,Normal,Reopened,qa_jung,dev_yoon,2026-03-23,,1,Integration,Data
+419,[Auth-Login] 결함 #419,Auth-Login,Major,Low,New,qa_jung,dev_han,2026-03-23,,0,Unit,Requirement
+112,[UI-Settings] 결함 #112,UI-Settings,Minor,Normal,Closed,qa_choi,dev_han,2026-03-23,2026-04-10,0,UAT,Design
+71,[Notification] 결함 #71,Notification,Major,Low,Closed,qa_lee,dev_baek,2026-03-26,2026-03-27,0,Unit,Requirement
+482,[Payment] 결함 #482,Payment,Minor,Immediate,Closed,qa_lee,dev_shin,2026-03-26,2026-04-10,0,Unit,Environment
+16,[Network-Comm] 결함 #16,Network-Comm,Critical,High,Closed,qa_jung,dev_seo,2026-03-28,2026-04-02,0,UAT,Environment
+39,[Search] 결함 #39,Search,Critical,Normal,Closed,qa_jung,dev_seo,2026-03-28,2026-03-29,0,Unit,Design
+488,[Data-Sync] 결함 #488,Data-Sync,Blocker,Normal,In Progress,qa_park,dev_seo,2026-03-28,,0,Integration,Environment
+243,[Data-Sync] 결함 #243,Data-Sync,Trivial,High,Closed,qa_lee,dev_shin,2026-03-29,2026-04-22,0,Unit,Data
+206,[Network-Comm] 결함 #206,Network-Comm,Minor,Immediate,Closed,qa_park,dev_yoon,2026-03-29,2026-04-13,0,Integration,Coding
+163,[Payment] 결함 #163,Payment,Critical,Normal,Closed,qa_choi,dev_yoon,2026-03-29,2026-04-05,0,Integration,Requirement
+313,[Data-Sync] 결함 #313,Data-Sync,Trivial,Normal,Resolved,qa_park,dev_han,2026-03-29,2026-04-09,0,System,Coding
+74,[UI-Settings] 결함 #74,UI-Settings,Minor,Low,In Progress,qa_lee,dev_shin,2026-03-30,,0,UAT,Environment
+427,[Notification] 결함 #427,Notification,Critical,Immediate,In Progress,qa_park,dev_shin,2026-03-30,,0,System,Requirement
+283,[Data-Sync] 결함 #283,Data-Sync,Major,Normal,Closed,qa_choi,dev_shin,2026-03-30,2026-04-08,1,System,Design
+255,[Payment] 결함 #255,Payment,Minor,High,Closed,qa_lee,dev_han,2026-03-30,2026-03-31,1,UAT,Requirement
+192,[Network-Comm] 결함 #192,Network-Comm,Trivial,High,Closed,qa_jung,dev_oh,2026-03-31,2026-04-13,1,Integration,Requirement
+416,[Notification] 결함 #416,Notification,Trivial,Normal,Closed,qa_choi,dev_shin,2026-03-31,2026-04-09,0,Unit,Design
+254,[Search] 결함 #254,Search,Major,Normal,Closed,qa_jung,dev_han,2026-04-01,2026-04-11,0,Unit,Coding
+284,[Auth-Login] 결함 #284,Auth-Login,Minor,Normal,In Progress,qa_kim,dev_oh,2026-04-01,,0,Integration,Requirement
+348,[Payment] 결함 #348,Payment,Minor,High,Closed,qa_lee,dev_shin,2026-04-02,2026-04-19,0,Unit,Coding
+173,[Notification] 결함 #173,Notification,Trivial,High,Reopened,qa_jung,dev_baek,2026-04-03,,1,Integration,Environment
+103,[Auth-Login] 결함 #103,Auth-Login,Trivial,Normal,Closed,qa_choi,dev_seo,2026-04-04,2026-05-01,0,Integration,Third-party
+190,[Network-Comm] 결함 #190,Network-Comm,Major,Normal,Closed,qa_kim,dev_shin,2026-04-04,2026-04-06,0,Integration,Design
+309,[Payment] 결함 #309,Payment,Major,Immediate,Reopened,qa_choi,dev_han,2026-04-04,,2,Unit,Coding
+445,[Data-Sync] 결함 #445,Data-Sync,Major,High,In Progress,qa_choi,dev_shin,2026-04-05,,0,Integration,Data
+108,[Search] 결함 #108,Search,Critical,High,Closed,qa_park,dev_seo,2026-04-05,2026-04-09,0,Unit,Coding
+372,[Network-Comm] 결함 #372,Network-Comm,Blocker,Low,In Progress,qa_kim,dev_seo,2026-04-05,,0,Integration,Requirement
+146,[Payment] 결함 #146,Payment,Trivial,High,Resolved,qa_lee,dev_oh,2026-04-05,2026-05-24,0,UAT,Coding
+475,[Search] 결함 #475,Search,Major,Normal,Closed,qa_park,dev_han,2026-04-06,2026-04-28,0,Integration,Coding
+76,[Network-Comm] 결함 #76,Network-Comm,Major,High,Closed,qa_park,dev_han,2026-04-07,2026-04-14,0,System,Data
+407,[Payment] 결함 #407,Payment,Major,Low,Closed,qa_jung,dev_baek,2026-04-07,2026-04-10,0,Production,Coding
+157,[UI-Settings] 결함 #157,UI-Settings,Trivial,Immediate,Closed,qa_choi,dev_baek,2026-04-07,2026-04-19,0,Integration,Requirement
+330,[Payment] 결함 #330,Payment,Major,High,Reopened,qa_lee,dev_yoon,2026-04-08,,2,System,Design
+225,[Payment] 결함 #225,Payment,Critical,High,In Progress,qa_park,dev_shin,2026-04-08,,0,Unit,Requirement
+267,[Network-Comm] 결함 #267,Network-Comm,Critical,High,Closed,qa_choi,dev_shin,2026-04-08,2026-04-08,0,Integration,Design
+48,[UI-Settings] 결함 #48,UI-Settings,Critical,Normal,Resolved,qa_lee,dev_baek,2026-04-08,2026-04-09,0,Unit,Coding
+171,[Network-Comm] 결함 #171,Network-Comm,Critical,High,Reopened,qa_jung,dev_han,2026-04-09,,2,System,Third-party
+77,[Auth-Login] 결함 #77,Auth-Login,Trivial,Normal,Closed,qa_jung,dev_shin,2026-04-09,2026-04-23,0,System,Design
+398,[Data-Sync] 결함 #398,Data-Sync,Major,Low,Closed,qa_kim,dev_shin,2026-04-09,2026-04-18,0,Unit,Requirement
+464,[Auth-Login] 결함 #464,Auth-Login,Critical,High,Reopened,qa_jung,dev_yoon,2026-04-10,,2,System,Design
+221,[Network-Comm] 결함 #221,Network-Comm,Major,Immediate,In Progress,qa_lee,dev_han,2026-04-10,,0,Integration,Design
+319,[Search] 결함 #319,Search,Minor,Normal,Closed,qa_park,dev_baek,2026-04-10,2026-05-31,0,Integration,Requirement
+95,[Network-Comm] 결함 #95,Network-Comm,Blocker,Normal,In Progress,qa_jung,dev_yoon,2026-04-10,,0,Integration,Coding
+401,[UI-Settings] 결함 #401,UI-Settings,Major,Normal,Closed,qa_choi,dev_han,2026-04-10,2026-04-12,0,Integration,Requirement
+68,[Network-Comm] 결함 #68,Network-Comm,Blocker,Normal,Closed,qa_kim,dev_seo,2026-04-11,2026-04-13,0,Unit,Design
+476,[Payment] 결함 #476,Payment,Minor,Normal,Closed,qa_choi,dev_yoon,2026-04-11,2026-05-24,0,UAT,Coding
+113,[Auth-Login] 결함 #113,Auth-Login,Trivial,Normal,Closed,qa_jung,dev_yoon,2026-04-11,2026-04-24,0,Integration,Environment
+44,[Firmware-Core] 결함 #44,Firmware-Core,Trivial,Normal,Reopened,qa_jung,dev_shin,2026-04-12,,1,Unit,Coding
+374,[Firmware-Core] 결함 #374,Firmware-Core,Major,Normal,In Progress,qa_lee,dev_yoon,2026-04-12,,0,Unit,Requirement
+263,[Payment] 결함 #263,Payment,Blocker,High,Resolved,qa_choi,dev_oh,2026-04-12,2026-04-12,0,Unit,Requirement
+200,[Search] 결함 #200,Search,Major,Normal,In Progress,qa_park,dev_seo,2026-04-12,,0,UAT,Third-party
+277,[Auth-Login] 결함 #277,Auth-Login,Minor,High,Closed,qa_lee,dev_baek,2026-04-13,2026-04-15,0,System,Coding
+184,[Auth-Login] 결함 #184,Auth-Login,Major,High,Closed,qa_lee,dev_oh,2026-04-13,2026-04-18,0,System,Requirement
+484,[Payment] 결함 #484,Payment,Major,High,Resolved,qa_kim,dev_yoon,2026-04-13,2026-04-21,0,System,Coding
+169,[UI-Settings] 결함 #169,UI-Settings,Major,Normal,Closed,qa_lee,dev_seo,2026-04-13,2026-04-22,0,System,Requirement
+494,[Network-Comm] 결함 #494,Network-Comm,Major,Normal,In Progress,qa_lee,dev_han,2026-04-13,,0,Integration,Coding
+33,[Firmware-Core] 결함 #33,Firmware-Core,Major,Normal,Closed,qa_jung,dev_shin,2026-04-14,2026-04-23,0,System,Design
+323,[UI-Settings] 결함 #323,UI-Settings,Major,Immediate,Closed,qa_jung,dev_han,2026-04-15,2026-04-20,0,Unit,Environment
+316,[UI-Settings] 결함 #316,UI-Settings,Trivial,Normal,Closed,qa_park,dev_shin,2026-04-15,2026-04-24,0,System,Requirement
+127,[UI-Settings] 결함 #127,UI-Settings,Minor,Normal,Closed,qa_jung,dev_seo,2026-04-15,2026-05-09,0,System,Coding
+369,[Network-Comm] 결함 #369,Network-Comm,Critical,High,In Progress,qa_kim,dev_oh,2026-04-15,,1,Production,Requirement
+147,[Network-Comm] 결함 #147,Network-Comm,Blocker,Normal,New,qa_jung,dev_oh,2026-04-15,,0,System,Environment
+134,[Auth-Login] 결함 #134,Auth-Login,Major,Normal,Closed,qa_jung,dev_yoon,2026-04-18,2026-04-21,0,System,Requirement
+22,[Payment] 결함 #22,Payment,Major,Normal,In Progress,qa_jung,dev_shin,2026-04-19,,0,System,Environment
+373,[Search] 결함 #373,Search,Trivial,Normal,Closed,qa_park,dev_yoon,2026-04-20,2026-05-06,0,Unit,Data
+315,[Notification] 결함 #315,Notification,Critical,Immediate,New,qa_jung,dev_yoon,2026-04-20,,0,Unit,Design
+97,[Payment] 결함 #97,Payment,Minor,High,Closed,qa_kim,dev_oh,2026-04-20,2026-04-21,0,Unit,Requirement
+499,[Auth-Login] 결함 #499,Auth-Login,Trivial,High,Closed,qa_park,dev_han,2026-04-20,2026-05-05,0,Production,Coding
+11,[Search] 결함 #11,Search,Critical,Normal,Resolved,qa_kim,dev_yoon,2026-04-21,2026-04-23,0,Integration,Design
+166,[Notification] 결함 #166,Notification,Minor,Low,Resolved,qa_park,dev_yoon,2026-04-21,2026-04-28,0,UAT,Environment
+34,[Network-Comm] 결함 #34,Network-Comm,Minor,Low,Closed,qa_choi,dev_oh,2026-04-21,2026-05-09,0,Unit,Design
+314,[Network-Comm] 결함 #314,Network-Comm,Minor,Immediate,Closed,qa_kim,dev_baek,2026-04-21,2026-05-07,0,Unit,Coding
+187,[UI-Settings] 결함 #187,UI-Settings,Major,High,In Progress,qa_park,dev_han,2026-04-22,,0,Unit,Environment
+288,[Payment] 결함 #288,Payment,Major,High,In Progress,qa_kim,dev_oh,2026-04-22,,0,Integration,Coding
+249,[Payment] 결함 #249,Payment,Minor,Low,In Progress,qa_park,dev_oh,2026-04-22,,0,Integration,Data
+317,[Network-Comm] 결함 #317,Network-Comm,Trivial,Normal,Reopened,qa_choi,dev_oh,2026-04-22,,2,Integration,Environment
+385,[UI-Settings] 결함 #385,UI-Settings,Critical,Low,Closed,qa_choi,dev_baek,2026-04-22,2026-04-27,0,Integration,Design
+307,[Search] 결함 #307,Search,Minor,Normal,Closed,qa_park,dev_seo,2026-04-23,2026-05-10,0,Integration,Requirement
+94,[Payment] 결함 #94,Payment,Minor,High,In Progress,qa_park,dev_oh,2026-04-23,,0,Unit,Third-party
+379,[Network-Comm] 결함 #379,Network-Comm,Minor,Normal,Closed,qa_lee,dev_baek,2026-04-23,2026-05-21,0,Integration,Coding
+47,[Network-Comm] 결함 #47,Network-Comm,Major,High,Resolved,qa_park,dev_oh,2026-04-24,2026-05-03,0,Production,Coding
+276,[Data-Sync] 결함 #276,Data-Sync,Trivial,High,New,qa_lee,dev_shin,2026-04-24,,0,Integration,Environment
+220,[Notification] 결함 #220,Notification,Trivial,Immediate,Closed,qa_lee,dev_han,2026-04-25,2026-05-23,0,System,Design
+82,[UI-Settings] 결함 #82,UI-Settings,Major,Low,Resolved,qa_jung,dev_seo,2026-04-26,2026-05-08,0,UAT,Requirement
+471,[Payment] 결함 #471,Payment,Major,Low,Closed,qa_choi,dev_seo,2026-04-26,2026-04-28,0,Integration,Coding
+72,[Notification] 결함 #72,Notification,Minor,Normal,Closed,qa_choi,dev_shin,2026-04-27,2026-05-17,0,System,Third-party
+248,[Auth-Login] 결함 #248,Auth-Login,Major,High,New,qa_jung,dev_han,2026-04-27,,0,Unit,Environment
+480,[UI-Settings] 결함 #480,UI-Settings,Critical,Normal,Reopened,qa_park,dev_shin,2026-04-27,,2,UAT,Coding
+481,[UI-Settings] 결함 #481,UI-Settings,Trivial,Normal,Closed,qa_choi,dev_shin,2026-04-27,2026-06-29,0,System,Coding
+366,[Network-Comm] 결함 #366,Network-Comm,Trivial,Normal,In Progress,qa_park,dev_oh,2026-04-28,,0,Unit,Design
+232,[Payment] 결함 #232,Payment,Blocker,Normal,New,qa_choi,dev_seo,2026-04-28,,0,Integration,Requirement
+486,[Auth-Login] 결함 #486,Auth-Login,Trivial,Immediate,Resolved,qa_jung,dev_han,2026-04-28,2026-06-07,0,Unit,Environment
+312,[Notification] 결함 #312,Notification,Blocker,Low,Closed,qa_kim,dev_baek,2026-04-28,2026-04-28,0,UAT,Third-party
+124,[Firmware-Core] 결함 #124,Firmware-Core,Major,High,Closed,qa_park,dev_han,2026-04-28,2026-05-01,0,Production,Coding
+286,[Notification] 결함 #286,Notification,Major,Low,In Progress,qa_jung,dev_oh,2026-04-28,,0,System,Coding
+477,[Firmware-Core] 결함 #477,Firmware-Core,Major,Normal,Closed,qa_jung,dev_han,2026-04-29,2026-05-02,0,System,Data
+250,[Notification] 결함 #250,Notification,Minor,Low,Closed,qa_choi,dev_shin,2026-04-29,2026-05-18,0,Unit,Coding
+177,[Firmware-Core] 결함 #177,Firmware-Core,Trivial,Normal,Closed,qa_choi,dev_baek,2026-04-30,2026-05-09,0,Integration,Data
+497,[Auth-Login] 결함 #497,Auth-Login,Minor,Low,Closed,qa_choi,dev_baek,2026-04-30,2026-06-11,0,System,Environment
+70,[Auth-Login] 결함 #70,Auth-Login,Major,Normal,In Progress,qa_choi,dev_oh,2026-04-30,,0,Production,Coding
+119,[Auth-Login] 결함 #119,Auth-Login,Critical,High,Resolved,qa_park,dev_seo,2026-04-30,2026-05-02,0,UAT,Design
+149,[Payment] 결함 #149,Payment,Minor,Normal,Closed,qa_lee,dev_oh,2026-05-01,2026-05-24,0,System,Data
+378,[Firmware-Core] 결함 #378,Firmware-Core,Major,Low,In Progress,qa_choi,dev_yoon,2026-05-01,,0,Integration,Data
+15,[Network-Comm] 결함 #15,Network-Comm,Major,High,Closed,qa_park,dev_seo,2026-05-01,2026-05-04,0,Unit,Design
+41,[Notification] 결함 #41,Notification,Trivial,Immediate,Closed,qa_park,dev_oh,2026-05-01,2026-05-09,0,Integration,Coding
+400,[Network-Comm] 결함 #400,Network-Comm,Major,High,Closed,qa_park,dev_seo,2026-05-01,2026-05-31,0,Integration,Coding
+2,[Network-Comm] 결함 #2,Network-Comm,Trivial,Normal,Resolved,qa_park,dev_han,2026-05-01,2026-05-22,0,System,Coding
+10,[UI-Settings] 결함 #10,UI-Settings,Critical,Normal,Closed,qa_choi,dev_yoon,2026-05-02,2026-05-06,0,System,Environment
+93,[Payment] 결함 #93,Payment,Major,High,Closed,qa_park,dev_oh,2026-05-02,2026-05-04,0,System,Data
+107,[UI-Settings] 결함 #107,UI-Settings,Trivial,High,Closed,qa_kim,dev_oh,2026-05-02,2026-05-27,0,System,Design
+111,[Firmware-Core] 결함 #111,Firmware-Core,Minor,High,Resolved,qa_kim,dev_han,2026-05-03,2026-05-07,0,UAT,Design
+57,[Payment] 결함 #57,Payment,Major,Low,Resolved,qa_lee,dev_baek,2026-05-03,2026-05-09,0,Unit,Coding
+458,[Auth-Login] 결함 #458,Auth-Login,Major,Normal,Closed,qa_choi,dev_yoon,2026-05-03,2026-05-14,0,Unit,Data
+253,[Payment] 결함 #253,Payment,Major,High,In Progress,qa_choi,dev_seo,2026-05-03,,0,UAT,Design
+396,[UI-Settings] 결함 #396,UI-Settings,Trivial,High,Closed,qa_kim,dev_han,2026-05-03,2026-06-01,0,Unit,Third-party
+399,[Auth-Login] 결함 #399,Auth-Login,Critical,Normal,In Progress,qa_kim,dev_shin,2026-05-03,,0,System,Environment
+27,[Auth-Login] 결함 #27,Auth-Login,Trivial,Low,Closed,qa_lee,dev_seo,2026-05-04,2026-05-16,0,Production,Design
+355,[Data-Sync] 결함 #355,Data-Sync,Major,Low,Closed,qa_jung,dev_baek,2026-05-04,2026-05-11,0,System,Coding
+306,[Search] 결함 #306,Search,Critical,Low,In Progress,qa_lee,dev_baek,2026-05-04,,0,Unit,Requirement
+88,[Payment] 결함 #88,Payment,Major,Normal,Closed,qa_lee,dev_han,2026-05-04,2026-05-07,1,Unit,Coding
+62,[Search] 결함 #62,Search,Major,Normal,Closed,qa_kim,dev_han,2026-05-05,2026-05-13,0,System,Coding
+487,[Network-Comm] 결함 #487,Network-Comm,Major,Low,Closed,qa_jung,dev_shin,2026-05-05,2026-05-10,0,Unit,Coding
+472,[Network-Comm] 결함 #472,Network-Comm,Blocker,High,Resolved,qa_jung,dev_han,2026-05-05,2026-05-06,0,System,Coding
+237,[Search] 결함 #237,Search,Major,High,Closed,qa_jung,dev_han,2026-05-05,2026-05-10,0,Unit,Third-party
+145,[UI-Settings] 결함 #145,UI-Settings,Minor,Normal,Closed,qa_lee,dev_han,2026-05-05,2026-05-13,0,Integration,Data
+35,[Auth-Login] 결함 #35,Auth-Login,Blocker,Normal,In Progress,qa_jung,dev_seo,2026-05-05,,0,Production,Third-party
+322,[Payment] 결함 #322,Payment,Minor,Normal,Closed,qa_lee,dev_oh,2026-05-06,2026-05-14,0,System,Coding
+38,[Payment] 결함 #38,Payment,Critical,Normal,Closed,qa_park,dev_oh,2026-05-06,2026-05-08,0,Integration,Requirement
+384,[Data-Sync] 결함 #384,Data-Sync,Major,Low,Closed,qa_choi,dev_seo,2026-05-06,2026-05-17,0,Integration,Coding
+311,[Firmware-Core] 결함 #311,Firmware-Core,Blocker,High,Closed,qa_jung,dev_oh,2026-05-06,2026-05-08,0,Unit,Third-party
+141,[Notification] 결함 #141,Notification,Minor,High,Closed,qa_kim,dev_oh,2026-05-07,2026-05-21,0,System,Design
+138,[Notification] 결함 #138,Notification,Minor,Normal,Closed,qa_jung,dev_baek,2026-05-07,2026-05-08,0,Unit,Requirement
+222,[Search] 결함 #222,Search,Major,High,New,qa_choi,dev_yoon,2026-05-07,,0,UAT,Environment
+142,[Notification] 결함 #142,Notification,Minor,Normal,Closed,qa_choi,dev_baek,2026-05-08,2026-05-10,0,System,Requirement
+359,[Payment] 결함 #359,Payment,Major,Normal,Closed,qa_jung,dev_han,2026-05-08,2026-05-11,0,System,Coding
+126,[Data-Sync] 결함 #126,Data-Sync,Major,Normal,In Progress,qa_jung,dev_oh,2026-05-08,,0,Integration,Design
+278,[Payment] 결함 #278,Payment,Critical,High,Closed,qa_jung,dev_shin,2026-05-09,2026-05-13,0,Integration,Coding
+438,[Network-Comm] 결함 #438,Network-Comm,Critical,Normal,Resolved,qa_jung,dev_yoon,2026-05-09,2026-05-15,0,Unit,Design
+203,[UI-Settings] 결함 #203,UI-Settings,Critical,Normal,In Progress,qa_lee,dev_oh,2026-05-09,,0,Integration,Data
+90,[Notification] 결함 #90,Notification,Blocker,Normal,In Progress,qa_lee,dev_oh,2026-05-09,,0,Integration,Data
+470,[UI-Settings] 결함 #470,UI-Settings,Major,High,Resolved,qa_kim,dev_yoon,2026-05-10,2026-05-19,0,Unit,Third-party
+500,[Notification] 결함 #500,Notification,Major,Normal,Closed,qa_lee,dev_seo,2026-05-10,2026-05-21,0,Unit,Data
+210,[Payment] 결함 #210,Payment,Major,Normal,In Progress,qa_jung,dev_oh,2026-05-10,,0,System,Requirement
+183,[Network-Comm] 결함 #183,Network-Comm,Blocker,Immediate,Closed,qa_kim,dev_shin,2026-05-11,2026-05-12,0,Unit,Coding
+304,[Search] 결함 #304,Search,Minor,High,Resolved,qa_lee,dev_baek,2026-05-11,2026-05-12,0,System,Third-party
+148,[UI-Settings] 결함 #148,UI-Settings,Major,Normal,Closed,qa_park,dev_han,2026-05-11,2026-05-16,0,UAT,Environment
+172,[Data-Sync] 결함 #172,Data-Sync,Minor,Normal,Closed,qa_jung,dev_yoon,2026-05-11,2026-06-01,0,Integration,Coding
+289,[Payment] 결함 #289,Payment,Minor,Normal,Reopened,qa_park,dev_shin,2026-05-12,,1,Production,Requirement
+356,[Notification] 결함 #356,Notification,Major,Immediate,Closed,qa_park,dev_baek,2026-05-12,2026-05-17,0,Production,Coding
+303,[Firmware-Core] 결함 #303,Firmware-Core,Trivial,Normal,Reopened,qa_jung,dev_baek,2026-05-13,,2,Unit,Design
+328,[Payment] 결함 #328,Payment,Major,Normal,Closed,qa_choi,dev_yoon,2026-05-13,2026-05-27,0,Unit,Data
+324,[Network-Comm] 결함 #324,Network-Comm,Minor,Normal,New,qa_jung,dev_yoon,2026-05-13,,0,Production,Environment
+244,[Payment] 결함 #244,Payment,Blocker,Immediate,Closed,qa_lee,dev_seo,2026-05-13,2026-05-15,0,System,Design
+496,[Firmware-Core] 결함 #496,Firmware-Core,Major,Normal,Resolved,qa_jung,dev_yoon,2026-05-15,2026-05-19,0,Integration,Environment
+154,[Payment] 결함 #154,Payment,Major,High,Closed,qa_jung,dev_seo,2026-05-15,2026-05-17,0,System,Requirement
+381,[UI-Settings] 결함 #381,UI-Settings,Major,Normal,Closed,qa_choi,dev_yoon,2026-05-15,2026-05-21,0,Unit,Design
+66,[Firmware-Core] 결함 #66,Firmware-Core,Minor,Low,Closed,qa_park,dev_shin,2026-05-15,2026-06-02,1,Integration,Coding
+228,[Notification] 결함 #228,Notification,Critical,Normal,In Progress,qa_jung,dev_yoon,2026-05-16,,0,Unit,Design
+67,[UI-Settings] 결함 #67,UI-Settings,Minor,High,Resolved,qa_kim,dev_yoon,2026-05-16,2026-05-19,0,Unit,Coding
+17,[Firmware-Core] 결함 #17,Firmware-Core,Major,Normal,Resolved,qa_choi,dev_han,2026-05-16,2026-05-16,0,Unit,Third-party
+79,[Payment] 결함 #79,Payment,Trivial,Normal,In Progress,qa_lee,dev_oh,2026-05-16,,0,Unit,Coding
+165,[Payment] 결함 #165,Payment,Major,High,Closed,qa_choi,dev_baek,2026-05-16,2026-06-03,0,Integration,Coding
+63,[Notification] 결함 #63,Notification,Minor,High,In Progress,qa_jung,dev_yoon,2026-05-17,,0,System,Design
+58,[Payment] 결함 #58,Payment,Major,High,Reopened,qa_jung,dev_baek,2026-05-17,,1,Unit,Requirement
+490,[Network-Comm] 결함 #490,Network-Comm,Minor,Normal,Closed,qa_kim,dev_seo,2026-05-17,2026-05-27,0,System,Coding
+353,[Auth-Login] 결함 #353,Auth-Login,Trivial,High,Closed,qa_lee,dev_seo,2026-05-17,2026-05-31,1,UAT,Requirement
+144,[Payment] 결함 #144,Payment,Major,Normal,Closed,qa_kim,dev_oh,2026-05-18,2026-05-28,0,UAT,Requirement
+354,[Network-Comm] 결함 #354,Network-Comm,Trivial,High,New,qa_lee,dev_oh,2026-05-18,,0,Integration,Design
+489,[Notification] 결함 #489,Notification,Major,Low,Resolved,qa_kim,dev_han,2026-05-18,2026-05-25,0,Unit,Design
+114,[Data-Sync] 결함 #114,Data-Sync,Trivial,Low,Closed,qa_park,dev_oh,2026-05-18,2026-06-05,0,UAT,Coding
+461,[Notification] 결함 #461,Notification,Major,Normal,Closed,qa_park,dev_yoon,2026-05-18,2026-05-21,0,UAT,Coding
+285,[Network-Comm] 결함 #285,Network-Comm,Trivial,Low,Closed,qa_kim,dev_yoon,2026-05-18,2026-06-03,0,Unit,Design
+465,[Search] 결함 #465,Search,Trivial,Normal,In Progress,qa_park,dev_han,2026-05-18,,0,Unit,Environment
+133,[UI-Settings] 결함 #133,UI-Settings,Blocker,Immediate,Closed,qa_choi,dev_shin,2026-05-19,2026-05-19,0,UAT,Requirement
+121,[Firmware-Core] 결함 #121,Firmware-Core,Minor,Normal,Reopened,qa_park,dev_shin,2026-05-19,,2,UAT,Requirement
+130,[UI-Settings] 결함 #130,UI-Settings,Minor,Low,Closed,qa_jung,dev_yoon,2026-05-19,2026-06-15,0,Unit,Third-party
+212,[Search] 결함 #212,Search,Minor,Normal,Resolved,qa_kim,dev_seo,2026-05-19,2026-06-24,0,Unit,Environment
+260,[Notification] 결함 #260,Notification,Major,Low,Resolved,qa_kim,dev_yoon,2026-05-20,2026-05-30,0,Integration,Requirement
+393,[UI-Settings] 결함 #393,UI-Settings,Major,High,Closed,qa_lee,dev_seo,2026-05-20,2026-05-30,0,System,Third-party
+349,[Payment] 결함 #349,Payment,Critical,Normal,Closed,qa_jung,dev_han,2026-05-20,2026-05-22,0,System,Environment
+344,[Firmware-Core] 결함 #344,Firmware-Core,Major,Normal,Resolved,qa_choi,dev_shin,2026-05-20,2026-06-09,0,Unit,Requirement
+234,[Auth-Login] 결함 #234,Auth-Login,Major,Normal,Closed,qa_lee,dev_oh,2026-05-20,2026-05-27,0,Integration,Requirement
+483,[Payment] 결함 #483,Payment,Minor,Normal,Closed,qa_park,dev_oh,2026-05-20,2026-05-29,0,Unit,Data
+274,[Notification] 결함 #274,Notification,Minor,Normal,Closed,qa_jung,dev_shin,2026-05-20,2026-05-27,0,Unit,Environment
+135,[Network-Comm] 결함 #135,Network-Comm,Blocker,Low,Closed,qa_kim,dev_han,2026-05-20,2026-05-22,0,Integration,Environment
+360,[Network-Comm] 결함 #360,Network-Comm,Major,High,Closed,qa_kim,dev_shin,2026-05-21,2026-05-27,0,Integration,Coding
+247,[UI-Settings] 결함 #247,UI-Settings,Major,Normal,Closed,qa_kim,dev_baek,2026-05-21,2026-05-27,0,Unit,Design
+197,[Payment] 결함 #197,Payment,Minor,High,In Progress,qa_lee,dev_oh,2026-05-21,,0,UAT,Coding
+478,[Payment] 결함 #478,Payment,Major,Low,Resolved,qa_choi,dev_shin,2026-05-22,2026-05-30,1,System,Data
+425,[Firmware-Core] 결함 #425,Firmware-Core,Critical,High,Closed,qa_jung,dev_han,2026-05-22,2026-05-29,0,Unit,Requirement
+245,[Network-Comm] 결함 #245,Network-Comm,Major,High,Closed,qa_choi,dev_han,2026-05-22,2026-05-25,0,Integration,Requirement
+448,[Firmware-Core] 결함 #448,Firmware-Core,Trivial,Normal,Closed,qa_park,dev_seo,2026-05-22,2026-05-28,0,UAT,Environment
+336,[Payment] 결함 #336,Payment,Minor,Low,New,qa_kim,dev_oh,2026-05-23,,0,System,Coding
+351,[Payment] 결함 #351,Payment,Critical,Normal,In Progress,qa_choi,dev_seo,2026-05-23,,0,Integration,Requirement
+450,[Notification] 결함 #450,Notification,Major,High,New,qa_jung,dev_han,2026-05-23,,0,UAT,Data
+120,[UI-Settings] 결함 #120,UI-Settings,Blocker,Low,Closed,qa_park,dev_baek,2026-05-24,2026-05-29,0,Production,Design
+498,[Notification] 결함 #498,Notification,Blocker,Normal,Closed,qa_lee,dev_yoon,2026-05-24,2026-05-27,0,Unit,Environment
+96,[UI-Settings] 결함 #96,UI-Settings,Major,Normal,Resolved,qa_jung,dev_baek,2026-05-24,2026-06-04,0,Production,Requirement
+440,[UI-Settings] 결함 #440,UI-Settings,Critical,Low,Resolved,qa_park,dev_han,2026-05-24,2026-05-27,0,Unit,Coding
+329,[Notification] 결함 #329,Notification,Trivial,High,Closed,qa_lee,dev_oh,2026-05-25,2026-06-10,0,UAT,Coding
+391,[Search] 결함 #391,Search,Major,Low,In Progress,qa_jung,dev_seo,2026-05-25,,0,Unit,Requirement
+460,[Network-Comm] 결함 #460,Network-Comm,Major,High,Closed,qa_choi,dev_oh,2026-05-25,2026-06-05,0,Production,Environment
+65,[Network-Comm] 결함 #65,Network-Comm,Minor,High,In Progress,qa_kim,dev_seo,2026-05-25,,0,System,Coding
+229,[Network-Comm] 결함 #229,Network-Comm,Major,Low,Closed,qa_jung,dev_seo,2026-05-25,2026-06-02,0,Integration,Coding
+479,[Network-Comm] 결함 #479,Network-Comm,Major,Normal,Closed,qa_choi,dev_yoon,2026-05-25,2026-05-27,0,System,Third-party
+308,[Payment] 결함 #308,Payment,Critical,Normal,Resolved,qa_lee,dev_oh,2026-05-25,2026-05-26,0,System,Requirement
+20,[Network-Comm] 결함 #20,Network-Comm,Minor,Normal,Closed,qa_lee,dev_han,2026-05-25,2026-05-31,0,Unit,Design
+492,[Network-Comm] 결함 #492,Network-Comm,Minor,Normal,Closed,qa_choi,dev_han,2026-05-26,2026-06-05,0,UAT,Requirement
+300,[UI-Settings] 결함 #300,UI-Settings,Minor,High,Closed,qa_jung,dev_seo,2026-05-26,2026-06-07,0,UAT,Requirement
+13,[Auth-Login] 결함 #13,Auth-Login,Blocker,Normal,Reopened,qa_choi,dev_yoon,2026-05-26,,2,Unit,Environment
+421,[Firmware-Core] 결함 #421,Firmware-Core,Critical,Normal,Resolved,qa_choi,dev_yoon,2026-05-27,2026-05-29,0,Production,Data
+493,[Search] 결함 #493,Search,Minor,Normal,Reopened,qa_lee,dev_baek,2026-05-27,,2,Integration,Data
+467,[Payment] 결함 #467,Payment,Trivial,Normal,In Progress,qa_choi,dev_seo,2026-05-27,,0,Integration,Coding
+251,[Search] 결함 #251,Search,Major,Immediate,Resolved,qa_lee,dev_oh,2026-05-27,2026-05-31,0,Unit,Third-party
+122,[Data-Sync] 결함 #122,Data-Sync,Major,High,Closed,qa_choi,dev_oh,2026-05-27,2026-06-14,0,Production,Design
+326,[UI-Settings] 결함 #326,UI-Settings,Blocker,Low,Closed,qa_jung,dev_shin,2026-05-27,2026-06-03,0,System,Data
+365,[Network-Comm] 결함 #365,Network-Comm,Critical,Normal,Closed,qa_jung,dev_seo,2026-05-27,2026-06-01,0,Integration,Design
+412,[Data-Sync] 결함 #412,Data-Sync,Trivial,Low,New,qa_kim,dev_oh,2026-05-27,,0,Unit,Requirement
+78,[UI-Settings] 결함 #78,UI-Settings,Minor,Normal,Closed,qa_kim,dev_yoon,2026-05-28,2026-05-31,0,UAT,Coding
+223,[UI-Settings] 결함 #223,UI-Settings,Blocker,Low,Resolved,qa_lee,dev_baek,2026-05-28,2026-05-29,0,Integration,Environment
+186,[Network-Comm] 결함 #186,Network-Comm,Major,Normal,Closed,qa_jung,dev_oh,2026-05-28,2026-06-07,0,System,Requirement
+81,[Notification] 결함 #81,Notification,Major,High,Resolved,qa_lee,dev_han,2026-05-28,2026-05-31,0,Unit,Design
+54,[Search] 결함 #54,Search,Trivial,High,Closed,qa_kim,dev_baek,2026-05-28,,0,Production,Environment
+158,[Network-Comm] 결함 #158,Network-Comm,Major,Immediate,New,qa_choi,dev_shin,2026-05-28,,0,System,Requirement
+411,[Auth-Login] 결함 #411,Auth-Login,Minor,Normal,Closed,qa_kim,dev_han,2026-05-28,2026-06-25,0,System,Coding
+61,[Payment] 결함 #61,Payment,Critical,Low,Reopened,qa_park,dev_oh,2026-05-29,,2,System,Coding
+368,[Payment] 결함 #368,Payment,Minor,High,Closed,qa_park,dev_han,2026-05-29,2026-06-24,0,System,Coding
+40,[Network-Comm] 결함 #40,Network-Comm,Minor,High,Closed,qa_choi,dev_oh,2026-05-29,2026-06-08,0,Integration,Coding
+156,[UI-Settings] 결함 #156,UI-Settings,Major,Immediate,New,qa_lee,dev_seo,2026-05-29,,0,Production,Design
+208,[Network-Comm] 결함 #208,Network-Comm,Minor,Normal,New,qa_lee,dev_yoon,2026-05-30,,0,Unit,Requirement
+49,[Payment] 결함 #49,Payment,Minor,Low,Resolved,qa_choi,dev_yoon,2026-05-30,2026-06-15,0,Integration,Data
+30,[Data-Sync] 결함 #30,Data-Sync,Major,Normal,Closed,qa_jung,dev_han,2026-05-30,2026-06-06,0,System,Coding
+275,[Payment] 결함 #275,Payment,Blocker,High,In Progress,qa_kim,dev_han,2026-05-30,,0,System,Environment
+318,[Notification] 결함 #318,Notification,Major,Immediate,Closed,qa_jung,dev_oh,2026-05-31,2026-06-07,0,System,Requirement
+394,[Payment] 결함 #394,Payment,Critical,Immediate,Closed,qa_lee,dev_seo,2026-05-31,2026-06-08,0,System,Requirement
+211,[Data-Sync] 결함 #211,Data-Sync,Trivial,Normal,Closed,qa_choi,dev_seo,2026-05-31,2026-06-19,0,Production,Coding
+102,[Payment] 결함 #102,Payment,Minor,High,Closed,qa_jung,dev_han,2026-06-01,2026-06-19,0,System,Design
+433,[Payment] 결함 #433,Payment,Major,Immediate,Closed,qa_lee,dev_yoon,2026-06-01,2026-06-08,1,System,Third-party
+466,[Payment] 결함 #466,Payment,Major,Normal,In Progress,qa_park,dev_oh,2026-06-01,,0,Integration,Environment
+43,[Search] 결함 #43,Search,Minor,Normal,In Progress,qa_choi,dev_yoon,2026-06-01,,0,Integration,Environment
+4,[Data-Sync] 결함 #4,Data-Sync,Major,High,Resolved,qa_park,dev_oh,2026-06-01,2026-06-02,0,UAT,Environment
+333,[Payment] 결함 #333,Payment,Major,Normal,New,qa_lee,dev_yoon,2026-06-01,,0,Integration,Requirement
+92,[Notification] 결함 #92,Notification,Major,Normal,Closed,qa_park,dev_oh,2026-06-01,2026-06-15,0,UAT,Data
+491,[Auth-Login] 결함 #491,Auth-Login,Minor,Immediate,Closed,qa_kim,dev_seo,2026-06-01,2026-06-30,0,UAT,Coding
+453,[Notification] 결함 #453,Notification,Major,Low,Closed,qa_jung,dev_shin,2026-06-02,2026-06-07,0,Unit,Requirement
+446,[Network-Comm] 결함 #446,Network-Comm,Major,Normal,Closed,qa_jung,dev_oh,2026-06-02,2026-06-08,0,Integration,Design
+55,[UI-Settings] 결함 #55,UI-Settings,Blocker,High,Closed,qa_jung,dev_oh,2026-06-02,2026-06-03,0,Integration,Coding
+87,[Payment] 결함 #87,Payment,Critical,Normal,Closed,qa_park,dev_baek,2026-06-03,2026-06-08,0,Integration,Design
+215,[Firmware-Core] 결함 #215,Firmware-Core,Minor,High,Closed,qa_lee,dev_han,2026-06-03,2026-06-21,0,UAT,Requirement
+118,[Network-Comm] 결함 #118,Network-Comm,Major,Normal,Closed,qa_choi,dev_shin,2026-06-03,2026-06-10,0,UAT,Coding
+387,[UI-Settings] 결함 #387,UI-Settings,Major,Normal,Resolved,qa_choi,dev_seo,2026-06-03,2026-06-12,1,Unit,Coding
+106,[Search] 결함 #106,Search,Minor,Normal,New,qa_lee,dev_seo,2026-06-03,,0,Unit,Coding
+338,[Auth-Login] 결함 #338,Auth-Login,Trivial,Normal,New,qa_lee,dev_oh,2026-06-04,,0,Unit,Data
+159,[Network-Comm] 결함 #159,Network-Comm,Minor,Normal,Closed,qa_kim,dev_oh,2026-06-04,2026-06-16,0,Unit,Data
+380,[Network-Comm] 결함 #380,Network-Comm,Minor,Normal,New,qa_lee,dev_han,2026-06-04,,0,Unit,Third-party
+331,[Firmware-Core] 결함 #331,Firmware-Core,Minor,Normal,In Progress,qa_lee,dev_seo,2026-06-05,,0,Unit,Third-party
+443,[Notification] 결함 #443,Notification,Critical,High,Closed,qa_park,dev_oh,2026-06-05,2026-06-06,0,UAT,Requirement
+216,[Network-Comm] 결함 #216,Network-Comm,Critical,Normal,In Progress,qa_lee,dev_yoon,2026-06-05,,1,Unit,Environment
+31,[Payment] 결함 #31,Payment,Minor,Normal,Closed,qa_jung,dev_yoon,2026-06-06,2026-06-18,0,System,Environment
+439,[Data-Sync] 결함 #439,Data-Sync,Trivial,Low,Resolved,qa_park,dev_han,2026-06-06,2026-06-14,0,Unit,Requirement
+256,[Payment] 결함 #256,Payment,Major,Low,New,qa_choi,dev_shin,2026-06-06,,0,UAT,Environment
+189,[Auth-Login] 결함 #189,Auth-Login,Minor,High,New,qa_lee,dev_han,2026-06-06,,0,Unit,Requirement
+180,[Payment] 결함 #180,Payment,Major,High,Closed,qa_lee,dev_seo,2026-06-06,2026-06-12,0,Integration,Coding
+117,[Network-Comm] 결함 #117,Network-Comm,Minor,High,Closed,qa_park,dev_oh,2026-06-07,2026-06-18,0,Unit,Requirement
+21,[Search] 결함 #21,Search,Trivial,Low,Resolved,qa_park,dev_han,2026-06-07,2026-06-15,0,Unit,Coding
+371,[Data-Sync] 결함 #371,Data-Sync,Minor,Immediate,Resolved,qa_choi,dev_han,2026-06-08,2026-06-16,0,System,Data
+357,[Auth-Login] 결함 #357,Auth-Login,Minor,Normal,Reopened,qa_lee,dev_han,2026-06-08,,2,System,Coding
+7,[Payment] 결함 #7,Payment,Major,Low,Closed,qa_choi,dev_han,2026-06-08,2026-06-16,0,Production,Coding
+160,[UI-Settings] 결함 #160,UI-Settings,Major,Normal,In Progress,qa_kim,dev_oh,2026-06-08,,0,Unit,Design
+64,[Payment] 결함 #64,Payment,Minor,Normal,Closed,qa_kim,dev_shin,2026-06-08,,0,Integration,Data
+25,[Search] 결함 #25,Search,Critical,Normal,Closed,qa_kim,dev_yoon,2026-06-09,2026-06-12,1,Production,Design
+299,[Payment] 결함 #299,Payment,Minor,Normal,Closed,qa_park,dev_oh,2026-06-09,2026-06-23,0,System,Coding
+301,[Network-Comm] 결함 #301,Network-Comm,Minor,High,Closed,qa_choi,dev_yoon,2026-06-09,2026-06-23,0,Production,Third-party
+201,[Data-Sync] 결함 #201,Data-Sync,Major,Normal,In Progress,qa_choi,dev_oh,2026-06-09,,0,System,Environment
+185,[Network-Comm] 결함 #185,Network-Comm,Minor,High,Closed,qa_lee,dev_oh,2026-06-09,2026-06-19,0,Integration,Requirement
+432,[UI-Settings] 결함 #432,UI-Settings,Major,Normal,Closed,qa_jung,dev_han,2026-06-09,2026-06-16,0,Unit,Coding
+418,[Data-Sync] 결함 #418,Data-Sync,Critical,Normal,New,qa_park,dev_han,2026-06-09,,0,UAT,Environment
+105,[Network-Comm] 결함 #105,Network-Comm,Trivial,High,Closed,qa_lee,dev_han,2026-06-09,,0,Unit,Coding
+1,[UI-Settings] 결함 #1,UI-Settings,Minor,Immediate,Closed,qa_jung,dev_shin,2026-06-09,,0,Unit,Data
+367,[Firmware-Core] 결함 #367,Firmware-Core,Trivial,High,Closed,qa_choi,dev_baek,2026-06-09,,0,Integration,Environment
+139,[Notification] 결함 #139,Notification,Minor,Immediate,Closed,qa_lee,dev_baek,2026-06-10,2026-06-19,0,UAT,Environment
+53,[Payment] 결함 #53,Payment,Critical,High,Closed,qa_choi,dev_yoon,2026-06-10,2026-06-11,1,System,Coding
+495,[Data-Sync] 결함 #495,Data-Sync,Trivial,Normal,Resolved,qa_jung,dev_shin,2026-06-10,2026-06-16,0,System,Requirement
+383,[Data-Sync] 결함 #383,Data-Sync,Trivial,Normal,Resolved,qa_lee,dev_shin,2026-06-10,,0,Integration,Third-party
+56,[Notification] 결함 #56,Notification,Major,Normal,Closed,qa_kim,dev_han,2026-06-10,2026-06-17,0,System,Coding
+80,[Notification] 결함 #80,Notification,Major,High,Closed,qa_lee,dev_baek,2026-06-10,2026-06-17,0,Production,Design
+8,[Notification] 결함 #8,Notification,Minor,High,In Progress,qa_choi,dev_baek,2026-06-10,,0,Production,Requirement
+459,[Network-Comm] 결함 #459,Network-Comm,Major,Low,New,qa_kim,dev_shin,2026-06-10,,0,Unit,Requirement
+238,[Data-Sync] 결함 #238,Data-Sync,Major,Normal,Closed,qa_lee,dev_oh,2026-06-10,2026-06-17,0,Integration,Design
+403,[Payment] 결함 #403,Payment,Blocker,Low,New,qa_kim,dev_yoon,2026-06-10,,0,Unit,Coding
+345,[Firmware-Core] 결함 #345,Firmware-Core,Critical,Low,Closed,qa_choi,dev_seo,2026-06-10,2026-06-14,0,Unit,Coding
+358,[Data-Sync] 결함 #358,Data-Sync,Trivial,Normal,Resolved,qa_lee,dev_han,2026-06-11,,0,Integration,Coding
+242,[Payment] 결함 #242,Payment,Critical,High,Closed,qa_choi,dev_yoon,2026-06-11,2026-06-14,0,UAT,Coding
+346,[UI-Settings] 결함 #346,UI-Settings,Trivial,Normal,Reopened,qa_lee,dev_yoon,2026-06-11,,1,System,Coding
+168,[Search] 결함 #168,Search,Trivial,Normal,Closed,qa_choi,dev_yoon,2026-06-12,,0,Unit,Design
+46,[Data-Sync] 결함 #46,Data-Sync,Major,High,Resolved,qa_kim,dev_baek,2026-06-12,2026-06-25,0,Integration,Third-party
+214,[Payment] 결함 #214,Payment,Trivial,High,In Progress,qa_kim,dev_baek,2026-06-12,,0,Unit,Coding
+236,[Firmware-Core] 결함 #236,Firmware-Core,Minor,Immediate,In Progress,qa_kim,dev_seo,2026-06-12,,0,Integration,Requirement
+327,[Payment] 결함 #327,Payment,Minor,High,New,qa_lee,dev_seo,2026-06-12,,0,Integration,Coding
+426,[Data-Sync] 결함 #426,Data-Sync,Major,High,Closed,qa_jung,dev_baek,2026-06-12,2026-06-16,1,System,Coding
+430,[Search] 결함 #430,Search,Minor,Normal,New,qa_jung,dev_yoon,2026-06-12,,0,System,Data
+343,[Auth-Login] 결함 #343,Auth-Login,Major,Normal,Closed,qa_jung,dev_shin,2026-06-12,2026-06-15,0,Integration,Requirement
+298,[Data-Sync] 결함 #298,Data-Sync,Critical,High,Closed,qa_lee,dev_han,2026-06-12,2026-06-18,0,Integration,Coding
+83,[Search] 결함 #83,Search,Critical,Low,Closed,qa_choi,dev_baek,2026-06-13,2026-06-17,0,Unit,Coding
+257,[Payment] 결함 #257,Payment,Major,Normal,New,qa_jung,dev_han,2026-06-13,,0,UAT,Requirement
+151,[Network-Comm] 결함 #151,Network-Comm,Major,High,Resolved,qa_park,dev_yoon,2026-06-14,2026-06-24,0,Production,Requirement
+19,[Network-Comm] 결함 #19,Network-Comm,Blocker,Immediate,New,qa_park,dev_seo,2026-06-14,,0,Integration,Design
+167,[Network-Comm] 결함 #167,Network-Comm,Minor,Normal,New,qa_park,dev_oh,2026-06-14,,0,UAT,Requirement
+14,[Network-Comm] 결함 #14,Network-Comm,Major,Low,New,qa_park,dev_seo,2026-06-14,,0,Unit,Environment
+241,[Payment] 결함 #241,Payment,Blocker,Low,Closed,qa_park,dev_han,2026-06-14,2026-06-16,1,Unit,Data
+262,[Notification] 결함 #262,Notification,Critical,Normal,Closed,qa_kim,dev_baek,2026-06-14,2026-06-15,0,Production,Environment
+397,[Network-Comm] 결함 #397,Network-Comm,Major,Normal,In Progress,qa_park,dev_shin,2026-06-14,,0,Production,Requirement
+42,[Search] 결함 #42,Search,Minor,Normal,Closed,qa_park,dev_shin,2026-06-15,2026-06-18,1,Integration,Third-party
+45,[Payment] 결함 #45,Payment,Critical,Immediate,Closed,qa_jung,dev_yoon,2026-06-15,2026-06-16,0,Integration,Environment
+291,[Notification] 결함 #291,Notification,Major,Normal,New,qa_choi,dev_shin,2026-06-15,,0,UAT,Coding
+408,[Network-Comm] 결함 #408,Network-Comm,Critical,Immediate,Closed,qa_choi,dev_baek,2026-06-15,2026-06-19,0,Unit,Design
+194,[Network-Comm] 결함 #194,Network-Comm,Major,Low,Closed,qa_jung,dev_baek,2026-06-15,2026-06-23,0,Production,Environment
+434,[Network-Comm] 결함 #434,Network-Comm,Minor,High,Closed,qa_choi,dev_yoon,2026-06-15,2026-06-20,0,UAT,Design
+295,[Payment] 결함 #295,Payment,Blocker,High,Closed,qa_lee,dev_han,2026-06-16,2026-06-18,0,UAT,Coding
+325,[Notification] 결함 #325,Notification,Minor,High,In Progress,qa_park,dev_baek,2026-06-16,,0,Production,Coding
+428,[Data-Sync] 결함 #428,Data-Sync,Trivial,Immediate,In Progress,qa_choi,dev_seo,2026-06-16,,1,System,Data
+3,[Data-Sync] 결함 #3,Data-Sync,Trivial,High,Closed,qa_jung,dev_baek,2026-06-17,,0,Production,Design
+441,[Network-Comm] 결함 #441,Network-Comm,Major,High,New,qa_kim,dev_oh,2026-06-17,,0,Production,Design
+280,[Network-Comm] 결함 #280,Network-Comm,Trivial,Normal,Closed,qa_park,dev_seo,2026-06-17,,1,Unit,Requirement
+305,[Auth-Login] 결함 #305,Auth-Login,Critical,Normal,New,qa_jung,dev_baek,2026-06-17,,0,Unit,Environment
+390,[Network-Comm] 결함 #390,Network-Comm,Minor,Immediate,Closed,qa_choi,dev_seo,2026-06-17,2026-06-27,0,Unit,Design
+334,[UI-Settings] 결함 #334,UI-Settings,Minor,Low,Closed,qa_lee,dev_oh,2026-06-17,,1,UAT,Design
+116,[Notification] 결함 #116,Notification,Minor,Immediate,Resolved,qa_jung,dev_oh,2026-06-17,2026-06-29,0,Integration,Coding
+73,[Payment] 결함 #73,Payment,Major,Normal,Closed,qa_choi,dev_seo,2026-06-17,2026-06-28,0,System,Environment
+252,[Network-Comm] 결함 #252,Network-Comm,Major,High,In Progress,qa_park,dev_yoon,2026-06-18,,0,System,Coding
+246,[UI-Settings] 결함 #246,UI-Settings,Major,High,Resolved,qa_park,dev_han,2026-06-18,2026-06-29,0,UAT,Coding
+279,[Data-Sync] 결함 #279,Data-Sync,Minor,Low,Resolved,qa_park,dev_yoon,2026-06-19,2026-06-27,0,Unit,Design
+406,[Search] 결함 #406,Search,Minor,High,Closed,qa_park,dev_shin,2026-06-19,2026-06-22,1,System,Environment
+198,[UI-Settings] 결함 #198,UI-Settings,Minor,Normal,Closed,qa_jung,dev_seo,2026-06-19,,0,Unit,Requirement
+181,[Payment] 결함 #181,Payment,Critical,Normal,Closed,qa_park,dev_yoon,2026-06-20,2026-06-26,0,UAT,Third-party
+179,[Network-Comm] 결함 #179,Network-Comm,Critical,High,Closed,qa_lee,dev_yoon,2026-06-20,2026-06-25,0,System,Requirement
+452,[Auth-Login] 결함 #452,Auth-Login,Major,Normal,Reopened,qa_choi,dev_seo,2026-06-20,,1,UAT,Coding
+24,[Payment] 결함 #24,Payment,Minor,Normal,Closed,qa_choi,dev_seo,2026-06-21,2026-06-26,0,System,Coding
+414,[Auth-Login] 결함 #414,Auth-Login,Trivial,Low,In Progress,qa_lee,dev_shin,2026-06-21,,0,System,Requirement
+370,[Auth-Login] 결함 #370,Auth-Login,Major,High,Closed,qa_kim,dev_yoon,2026-06-21,2026-06-23,0,Unit,Coding
+182,[Payment] 결함 #182,Payment,Major,High,In Progress,qa_jung,dev_baek,2026-06-21,,0,UAT,Design
+152,[Network-Comm] 결함 #152,Network-Comm,Trivial,Low,Closed,qa_lee,dev_oh,2026-06-21,,0,Integration,Coding
+110,[Payment] 결함 #110,Payment,Major,High,Closed,qa_lee,dev_han,2026-06-22,2026-06-27,0,Integration,Third-party
+420,[Search] 결함 #420,Search,Minor,Low,Closed,qa_choi,dev_yoon,2026-06-22,,0,System,Data
+101,[Search] 결함 #101,Search,Major,Immediate,Resolved,qa_park,dev_han,2026-06-22,,0,Integration,Third-party
+296,[Payment] 결함 #296,Payment,Major,High,Closed,qa_lee,dev_yoon,2026-06-22,2026-06-23,0,System,Third-party
+265,[Firmware-Core] 결함 #265,Firmware-Core,Trivial,Normal,Closed,qa_park,dev_yoon,2026-06-23,,0,Unit,Design
+402,[Network-Comm] 결함 #402,Network-Comm,Major,Immediate,Closed,qa_jung,dev_yoon,2026-06-23,2026-06-29,0,Production,Data
+321,[Auth-Login] 결함 #321,Auth-Login,Blocker,Normal,Closed,qa_lee,dev_han,2026-06-23,2026-06-24,0,Integration,Requirement
+162,[Network-Comm] 결함 #162,Network-Comm,Trivial,Normal,Resolved,qa_choi,dev_yoon,2026-06-23,2026-06-27,0,Integration,Third-party
+293,[Payment] 결함 #293,Payment,Major,Normal,New,qa_lee,dev_baek,2026-06-24,,0,System,Coding
+12,[Network-Comm] 결함 #12,Network-Comm,Minor,Normal,In Progress,qa_park,dev_yoon,2026-06-24,,0,Integration,Data
+235,[Firmware-Core] 결함 #235,Firmware-Core,Critical,High,New,qa_lee,dev_han,2026-06-24,,0,Unit,Requirement
+132,[Notification] 결함 #132,Notification,Minor,Normal,Closed,qa_jung,dev_yoon,2026-06-24,,0,Integration,Data
+431,[Payment] 결함 #431,Payment,Major,Low,Resolved,qa_jung,dev_yoon,2026-06-24,2026-06-29,0,System,Coding
+361,[Data-Sync] 결함 #361,Data-Sync,Minor,Normal,Resolved,qa_kim,dev_oh,2026-06-24,,0,Integration,Design
+226,[UI-Settings] 결함 #226,UI-Settings,Blocker,Low,Closed,qa_choi,dev_baek,2026-06-24,2026-06-27,0,System,Environment
+219,[Data-Sync] 결함 #219,Data-Sync,Minor,Normal,Reopened,qa_lee,dev_yoon,2026-06-24,,1,Unit,Design
+377,[Firmware-Core] 결함 #377,Firmware-Core,Major,Normal,Closed,qa_choi,dev_yoon,2026-06-25,2026-06-26,0,Unit,Requirement
+191,[Auth-Login] 결함 #191,Auth-Login,Major,Normal,New,qa_park,dev_shin,2026-06-25,,0,Production,Design
+468,[Search] 결함 #468,Search,Critical,High,Closed,qa_park,dev_seo,2026-06-25,2026-06-28,1,Integration,Design
+174,[Search] 결함 #174,Search,Minor,Normal,Resolved,qa_lee,dev_baek,2026-06-25,,0,Integration,Third-party
+143,[Notification] 결함 #143,Notification,Blocker,Normal,New,qa_jung,dev_yoon,2026-06-25,,0,System,Third-party
+340,[UI-Settings] 결함 #340,UI-Settings,Major,High,Closed,qa_park,dev_yoon,2026-06-25,,0,Unit,Coding
+382,[UI-Settings] 결함 #382,UI-Settings,Minor,Immediate,Resolved,qa_kim,dev_han,2026-06-25,,0,Unit,Data
+224,[UI-Settings] 결함 #224,UI-Settings,Trivial,Normal,In Progress,qa_lee,dev_han,2026-06-26,,0,Integration,Environment
+463,[UI-Settings] 결함 #463,UI-Settings,Critical,High,Resolved,qa_lee,dev_oh,2026-06-26,2026-06-30,0,Unit,Requirement
+320,[Auth-Login] 결함 #320,Auth-Login,Major,Low,Closed,qa_kim,dev_baek,2026-06-26,2026-06-29,0,Production,Design
+170,[Firmware-Core] 결함 #170,Firmware-Core,Major,Immediate,Closed,qa_jung,dev_seo,2026-06-26,2026-06-29,0,Integration,Coding
+347,[Network-Comm] 결함 #347,Network-Comm,Major,Normal,Closed,qa_kim,dev_seo,2026-06-26,,0,Unit,Environment
+388,[Network-Comm] 결함 #388,Network-Comm,Critical,High,In Progress,qa_park,dev_oh,2026-06-26,,1,Production,Third-party
+100,[Search] 결함 #100,Search,Minor,High,Closed,qa_jung,dev_seo,2026-06-27,,0,Production,Requirement
+137,[Network-Comm] 결함 #137,Network-Comm,Minor,Normal,Closed,qa_park,dev_han,2026-06-27,,0,Integration,Data
+233,[Network-Comm] 결함 #233,Network-Comm,Critical,High,Closed,qa_park,dev_seo,2026-06-27,2026-06-30,0,System,Coding
+342,[Search] 결함 #342,Search,Minor,Normal,In Progress,qa_lee,dev_seo,2026-06-27,,0,Integration,Data
+104,[Notification] 결함 #104,Notification,Minor,Normal,Resolved,qa_park,dev_seo,2026-06-28,,0,System,Environment
+32,[Search] 결함 #32,Search,Minor,Normal,Resolved,qa_choi,dev_baek,2026-06-28,,0,System,Requirement
+6,[Search] 결함 #6,Search,Minor,High,In Progress,qa_kim,dev_yoon,2026-06-28,,0,Unit,Environment
+202,[Payment] 결함 #202,Payment,Major,Normal,Closed,qa_lee,dev_yoon,2026-06-28,,0,Integration,Third-party
+23,[Notification] 결함 #23,Notification,Critical,Low,Resolved,qa_choi,dev_yoon,2026-06-28,,1,Integration,Coding
+447,[Payment] 결함 #447,Payment,Minor,Low,Closed,qa_kim,dev_baek,2026-06-29,,0,Integration,Coding
+386,[Payment] 결함 #386,Payment,Major,Immediate,Closed,qa_kim,dev_seo,2026-06-29,,0,Unit,Coding
+457,[UI-Settings] 결함 #457,UI-Settings,Minor,High,In Progress,qa_park,dev_baek,2026-06-29,,1,Unit,Third-party
+297,[Payment] 결함 #297,Payment,Blocker,Immediate,Closed,qa_lee,dev_shin,2026-06-29,2026-06-30,0,System,Environment
+410,[Network-Comm] 결함 #410,Network-Comm,Major,Normal,In Progress,qa_kim,dev_han,2026-06-30,,0,System,Requirement
+178,[Search] 결함 #178,Search,Major,High,Reopened,qa_choi,dev_baek,2026-06-30,,2,UAT,Coding
+405,[Notification] 결함 #405,Notification,Trivial,High,Closed,qa_park,dev_oh,2026-06-30,,0,Integration,Data

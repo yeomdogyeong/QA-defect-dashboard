@@ -13,6 +13,8 @@ QA Defect Dashboard — Streamlit 앱.
 
 from __future__ import annotations
 
+import os
+
 import pandas as pd
 import plotly.express as px
 import streamlit as st
@@ -43,14 +45,21 @@ def _load_uploaded(file) -> pd.DataFrame:
     return df
 
 
+_SAMPLE_CSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sample_defects.csv")
+
 # ---- 데이터 소스 -----------------------------------------------------------
 st.sidebar.title("🐞 QA Defect Dashboard")
 src_choice = st.sidebar.radio("데이터 소스", ["샘플 데이터", "CSV 업로드"])
 
 if src_choice == "CSV 업로드":
+    if os.path.exists(_SAMPLE_CSV):
+        with open(_SAMPLE_CSV, "rb") as _f:
+            st.sidebar.download_button("📥 샘플 CSV 내려받기", _f.read(),
+                                       file_name="sample_defects.csv", mime="text/csv")
+        st.sidebar.caption("파일이 없으면 위 버튼으로 샘플을 받아 아래에 업로드해 보세요.")
     up = st.sidebar.file_uploader("결함 CSV 업로드", type=["csv"])
     if up is None:
-        st.info("CSV를 업로드하거나 사이드바에서 '샘플 데이터'를 선택하세요.")
+        st.info("사이드바에서 '📥 샘플 CSV 내려받기'로 파일을 받아 업로드하거나, '샘플 데이터'를 선택하세요.")
         st.stop()
     df = _load_uploaded(up)
 else:
@@ -60,9 +69,19 @@ else:
 st.sidebar.subheader("필터")
 min_d, max_d = df[COL_CREATED].min(), df[COL_CREATED].max()
 date_range = st.sidebar.date_input("생성 기간", (min_d, max_d), min_value=min_d, max_value=max_d)
-sel_modules = st.sidebar.multiselect("모듈", sorted(df[COL_MODULE].unique()))
-sel_sev = st.sidebar.multiselect("심각도", SEVERITIES)
-sel_assignee = st.sidebar.multiselect("담당자", sorted(df[COL_ASSIGNEE].dropna().unique()))
+
+# 데모용 기본 선택 태그 — 면접관이 하나씩 지워 보며 필터 동작을 확인할 수 있게
+_mod_opts = sorted(df[COL_MODULE].unique())
+_asg_opts = sorted(df[COL_ASSIGNEE].dropna().unique())
+_mod_default = [m for m in ["Payment", "Network-Comm", "Auth-Login"] if m in _mod_opts]
+_sev_default = [s for s in ["Critical", "Major"] if s in SEVERITIES]
+_asg_default = [a for a in ["dev_baek", "dev_han", "dev_oh", "dev_seo", "dev_yoon"] if a in _asg_opts]
+
+sel_modules = st.sidebar.multiselect("모듈", _mod_opts, default=_mod_default)
+sel_sev = st.sidebar.multiselect("심각도", SEVERITIES, default=_sev_default)
+sel_assignee = st.sidebar.multiselect("담당자", _asg_opts, default=_asg_default)
+freq = st.sidebar.radio("추세 단위", ["W", "M"], horizontal=True,
+                        format_func=lambda x: {"W": "주간", "M": "월간"}[x])
 
 mask = pd.Series(True, index=df.index)
 if isinstance(date_range, (tuple, list)) and len(date_range) == 2:
@@ -130,10 +149,8 @@ if flagged:
 # ---- 추세 + MTTR -----------------------------------------------------------
 d1, d2 = st.columns(2)
 with d1:
-    freq = st.radio("추세 단위", ["W", "M"], horizontal=True,
-                    format_func=lambda x: {"W": "주간", "M": "월간"}[x])
-    trend = M.defect_trend(fdf, freq=freq)
-    tl = trend.melt("period", ["created", "resolved"], "종류", "건수")
+    trend = M.defect_trend(fdf, freq=freq).rename(columns={"created": "생성", "resolved": "해결"})
+    tl = trend.melt("period", ["생성", "해결"], "종류", "건수")
     st.plotly_chart(
         px.line(tl, x="period", y="건수", color="종류", markers=True,
                 title="생성 vs 해결 추세"),
